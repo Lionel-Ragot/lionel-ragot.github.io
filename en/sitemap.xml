@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://site-LR.ghithub.io/en/courses/</loc>
+    <loc>https://site-LR.github.io/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/courses/"
+                href="https://site-LR.github.io/fr/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/courses/"
+                href="https://site-LR.github.io/en/courses/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/</loc>
+    <loc>https://site-LR.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/"
+                href="https://site-LR.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/"
+                href="https://site-LR.github.io/en/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/articles/</loc>
+    <loc>https://site-LR.github.io/en/articles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/articles/"
+                href="https://site-LR.github.io/fr/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/articles/"
+                href="https://site-LR.github.io/en/articles/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/books/</loc>
+    <loc>https://site-LR.github.io/en/books/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/books/"
+                href="https://site-LR.github.io/fr/books/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/books/"
+                href="https://site-LR.github.io/en/books/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/others/</loc>
+    <loc>https://site-LR.github.io/en/others/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/others/"
+                href="https://site-LR.github.io/fr/others/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/others/"
+                href="https://site-LR.github.io/en/others/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/publications/</loc>
+    <loc>https://site-LR.github.io/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/publications/"
+                href="https://site-LR.github.io/fr/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/publications/"
+                href="https://site-LR.github.io/en/publications/"
                 />
   </url><url>
-    <loc>https://site-LR.ghithub.io/en/tags/</loc>
+    <loc>https://site-LR.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://site-LR.ghithub.io/fr/tags/"
+                href="https://site-LR.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://site-LR.ghithub.io/en/tags/"
+                href="https://site-LR.github.io/en/tags/"
                 />
   </url>
 </urlset>
