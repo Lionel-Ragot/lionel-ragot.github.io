@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://site-LR.ghithub.io/sitemap.xml

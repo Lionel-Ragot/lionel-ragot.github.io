@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Innefficience dynamique on Lionel Ragot</title>
+    <link>https://site-LR.ghithub.io/fr/tags/innefficience-dynamique/</link>
+    <description>Recent content in Innefficience dynamique on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://site-LR.ghithub.io/fr/tags/innefficience-dynamique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Théorie de la croissance</title>
+      <link>https://site-LR.ghithub.io/22-02-01/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://site-LR.ghithub.io/22-02-01/</guid>
+      <description>Ce cours est une introduction à l’analyse de la dynamique économique de long terme (la croissance économique) - Niveau L3 -</description>
+    </item>
+    
+    <item>
+      <title>Théorie de la croissance</title>
+      <link>https://site-LR.ghithub.io/fr/publications/ens-1/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://site-LR.ghithub.io/fr/publications/ens-1/</guid>
+      <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
+    </item>
+    
+  </channel>
+</rss>
