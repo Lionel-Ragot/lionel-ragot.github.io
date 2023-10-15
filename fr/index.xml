@@ -70,5 +70,32 @@
       <description>Ce module vise à donner aux doctorants une description assez précise des questions contemporaines traitées par la théorie de la croissance, des principaux enseignements délivrés et une présentation des techniques quantitatives (en particulier l’optimisation dynamique et l’analyse des systèmes dynamiques) qu’il faut maîtriser pour pouvoir lire les articles de cette littérature et y contribuer - Niveau ED -</description>
     </item>
     
+    <item>
+      <title>An Introduction to the Economics of Immigration in OECD Countries</title>
+      <link>https://lionel-ragot.github.io/11-00-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-20/</guid>
+      <description>This paper covers four broad topics : labour market issues, fiscal questions, the political economy of immigration, and productivity and international trade.</description>
+    </item>
+    
+    <item>
+      <title>Croissance endogène et pollution: Une approche fondée sur le comportement du consommateur</title>
+      <link>https://lionel-ragot.github.io/11-00-02/</link>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-02/</guid>
+      <description>This paper describes a dynamic applied general equilibrium model, with perfect foresight, designed for clarifying the questions concerning taxation and the environment.</description>
+    </item>
+    
+    <item>
+      <title>Fiscalité environnementale et sensibilité écologique des consommateurs</title>
+      <link>https://lionel-ragot.github.io/11-00-01/</link>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-01/</guid>
+      <description>This paper describes a dynamic applied general equilibrium model, with perfect foresight, designed for clarifying the questions concerning taxation and the environment.</description>
+    </item>
+    
   </channel>
 </rss>
