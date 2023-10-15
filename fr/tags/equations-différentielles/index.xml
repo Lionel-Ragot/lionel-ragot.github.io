@@ -6,23 +6,23 @@
     <description>Recent content in Equations différentielles on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/equations-diff%C3%A9rentielles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moteurs  de la croissance économique</title>
-      <link>https://lionel-ragot.github.io/22-02-03/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/22-02-03/</guid>
-      <description>Ce cours est consacré à l&amp;#39;analyse des modèles de croissance optimale endogène (une explication de la dynamique de long terme des économies) - Niveau M1 -</description>
-    </item>
-    
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/equations-diff%C3%A9rentielles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Théorie de la croissance</title>
       <link>https://lionel-ragot.github.io/22-02-01/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/22-02-01/</guid>
       <description>Ce cours est une introduction à l’analyse de la dynamique économique de long terme (la croissance économique) - Niveau L3 -</description>
+    </item>
+    
+    <item>
+      <title>Moteurs  de la croissance économique</title>
+      <link>https://lionel-ragot.github.io/22-02-03/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/22-02-03/</guid>
+      <description>Ce cours est consacré à l&amp;#39;analyse des modèles de croissance optimale endogène (une explication de la dynamique de long terme des économies) - Niveau M1 -</description>
     </item>
     
   </channel>
