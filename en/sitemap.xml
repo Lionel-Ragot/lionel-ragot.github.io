@@ -123,7 +123,7 @@
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/agriculture/</loc>
-    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -136,7 +136,7 @@
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/carbon-sequestration/</loc>
-    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -149,7 +149,7 @@
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/environment/</loc>
-    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/kyoto-protocol/</loc>
-    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -174,8 +174,11 @@
                 href="https://lionel-ragot.github.io/en/tags/kyoto-protocol/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/11-00-07-en/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/optimal-control/</loc>
-    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -185,6 +188,74 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/tags/optimal-control/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/condorcet-winner/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/condorcet-winner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/condorcet-winner/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/elections/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/elections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/elections/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/field-experiments/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/field-experiments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/field-experiments/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/11-00-06-en/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/single-transferable-vote/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/single-transferable-vote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/single-transferable-vote/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/voting-system/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/voting-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/voting-system/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/11-00-05-en/</loc>
