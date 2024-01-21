@@ -6,7 +6,16 @@
     <description>Recent content in endogenous growth on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 01 Mar 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/endogenous-growth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/endogenous-growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Optimal Control of Pollution in a Human Capital Growth Model</title>
+      <link>https://lionel-ragot.github.io/11-00-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-13/</guid>
+      <description>Pour saisir l&amp;rsquo;impact de la pollution sur la croissance économique, nous calculons la solution optimale dans un modèle de croissance endogène en temps continu à la Lucas (1988).</description>
+    </item>
+    
     <item>
       <title>Croissance endogène et pollution: Une approche fondée sur le comportement du consommateur</title>
       <link>https://lionel-ragot.github.io/11-00-02/</link>
