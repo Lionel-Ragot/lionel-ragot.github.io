@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lionel-ragot.github.io/en/tags/advertising/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/advertising/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/advertising/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/assurance-universelle/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/tags/assurance-universelle/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/data-economy/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/data-economy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/data-economy/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/d%C3%A9pendance/</loc>
@@ -28,6 +54,19 @@
                 href="https://lionel-ragot.github.io/en/tags/d%C3%A9pendance/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/digital-economy/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/digital-economy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/digital-economy/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/dynamic-applied-general-equilibrium-model/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,6 +78,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/tags/dynamic-applied-general-equilibrium-model/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/economic-growth/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/economic-growth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/economic-growth/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/</loc>
@@ -54,6 +106,19 @@
                 href="https://lionel-ragot.github.io/en/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/en/tags/privacy/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/privacy/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/articles/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,6 +130,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/articles/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/publications/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/publications/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/11-00-22-en/</loc>
@@ -82,6 +160,9 @@
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/11-01-01-en/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/international-migration/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -500,19 +581,6 @@
                 href="https://lionel-ragot.github.io/en/tags/discretization/"
                 />
   </url><url>
-    <loc>https://lionel-ragot.github.io/en/tags/economic-growth/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/tags/economic-growth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/tags/economic-growth/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/11-00-12-en/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -882,18 +950,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/others/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/en/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/publications/"
                 />
   </url>
 </urlset>
