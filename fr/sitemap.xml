@@ -341,12 +341,32 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9mographie/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/d%C3%A9mographie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/d%C3%A9mographie/"
+                />
   </url><url>
     <loc>https://lionel-ragot.github.io/22-02-06/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/finances-publiques/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/finances-publiques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/finances-publiques/"
+                />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/megc/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
@@ -792,6 +812,61 @@
     <loc>https://lionel-ragot.github.io/11-00-11/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/int%C3%A9gration/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/int%C3%A9gration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/int%C3%A9gration/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/march%C3%A9-du-travail/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/march%C3%A9-du-travail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/march%C3%A9-du-travail/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/13-01-02/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/politiques-migratoires/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/politiques-migratoires/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/politiques-migratoires/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/books/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/books/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/selective-migration/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -858,6 +933,35 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lionel-ragot.github.io/fr/tags/non-renewable-resources/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/13-01-01/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/dynamics-models/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/dynamics-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/dynamics-models/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/optimal-control/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/optimal-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/optimal-control/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/11-00-09/</loc>
@@ -986,19 +1090,6 @@
     <loc>https://lionel-ragot.github.io/11-00-07/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/optimal-control/</loc>
-    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/tags/optimal-control/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/tags/optimal-control/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/condorcet-winner/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1106,18 +1197,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lionel-ragot.github.io/fr/tags/taxation/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/books/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/books/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/others/</loc>

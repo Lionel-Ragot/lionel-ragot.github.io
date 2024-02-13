@@ -431,7 +431,7 @@
     </item>
     
     <item>
-      <title>Finances publiques</title>
+      <title>finances publiques</title>
       <link>https://lionel-ragot.github.io/fr/tags/finances-publiques/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
       
@@ -764,6 +764,33 @@
     </item>
     
     <item>
+      <title>intégration</title>
+      <link>https://lionel-ragot.github.io/fr/tags/int%C3%A9gration/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/int%C3%A9gration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marché du travail</title>
+      <link>https://lionel-ragot.github.io/fr/tags/march%C3%A9-du-travail/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/march%C3%A9-du-travail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politiques migratoires</title>
+      <link>https://lionel-ragot.github.io/fr/tags/politiques-migratoires/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/politiques-migratoires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>selective migration</title>
       <link>https://lionel-ragot.github.io/fr/tags/selective-migration/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -805,6 +832,24 @@
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/fr/tags/non-renewable-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics models</title>
+      <link>https://lionel-ragot.github.io/fr/tags/dynamics-models/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/dynamics-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control</title>
+      <link>https://lionel-ragot.github.io/fr/tags/optimal-control/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/optimal-control/</guid>
       <description></description>
     </item>
     
@@ -886,15 +931,6 @@
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/fr/tags/kyoto-protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal control</title>
-      <link>https://lionel-ragot.github.io/fr/tags/optimal-control/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/optimal-control/</guid>
       <description></description>
     </item>
     
