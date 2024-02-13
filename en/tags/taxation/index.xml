@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>taxation on Lionel Ragot</title>
-    <link>https://www.lionel-ragot.eu/en/tags/taxation/</link>
+    <link>https://lionel-ragot.github.io/en/tags/taxation/</link>
     <description>Recent content in taxation on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Mar 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lionel-ragot.eu/en/tags/taxation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/taxation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Croissance endogène et pollution: Une approche fondée sur le comportement du consommateur</title>
-      <link>https://www.lionel-ragot.eu/11-00-02-en/</link>
+      <link>https://lionel-ragot.github.io/11-00-02-en/</link>
       <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lionel-ragot.eu/11-00-02-en/</guid>
+      <guid>https://lionel-ragot.github.io/11-00-02-en/</guid>
       <description>This paper develops a continuous time model of endogenous growth based on innovations in consumption goods.</description>
     </item>
     
     <item>
       <title>Fiscalité environnementale et sensibilité écologique des consommateurs</title>
-      <link>https://www.lionel-ragot.eu/11-00-01-en/</link>
+      <link>https://lionel-ragot.github.io/11-00-01-en/</link>
       <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lionel-ragot.eu/11-00-01-en/</guid>
+      <guid>https://lionel-ragot.github.io/11-00-01-en/</guid>
       <description>This paper describes a dynamic applied general equilibrium model, with perfect foresight, designed for clarifying the questions concerning taxation and the environment.</description>
     </item>
     
