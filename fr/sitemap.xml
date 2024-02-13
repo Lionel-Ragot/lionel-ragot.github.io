@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lionel-ragot.github.io/11-00-02/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/foreign-students/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/foreign-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/foreign-students/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/immigration-policy/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/immigration-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/immigration-policy/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/publications/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/publications/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/universities/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/tags/universities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/tags/universities/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/advertising/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,19 +174,6 @@
                 href="https://lionel-ragot.github.io/fr/tags/economic-growth/"
                 />
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/privacy/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -132,34 +200,8 @@
                 href="https://lionel-ragot.github.io/fr/articles/"
                 />
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/publications/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/publications/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/11-00-22/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/tags/"
-                />
   </url><url>
     <loc>https://lionel-ragot.github.io/11-01-01/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
@@ -503,19 +545,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lionel-ragot.github.io/fr/tags/trade-and-migration/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/foreign-students/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/tags/foreign-students/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/tags/foreign-students/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/location-choice/</loc>

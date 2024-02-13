@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Immigration Policy on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/tags/immigration-policy/</link>
+    <description>Recent content in Immigration Policy on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/immigration-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asssessing the Role of Immigration Policy for Foreign Students: the Case of Campus France</title>
+      <link>https://lionel-ragot.github.io/11-00-02-en/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-02-en/</guid>
+      <description>Using a Diff-in-Diff-in-Diff approach, we test the impact of Campus France on the volume of enrollments in French universities. We pay attention to the heterogeneity of these effects across different types of universities.</description>
+    </item>
+    
+  </channel>
+</rss>
