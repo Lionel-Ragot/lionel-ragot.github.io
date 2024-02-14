@@ -35,123 +35,6 @@
     </item>
     
     <item>
-      <title>Book chapters in English</title>
-      <link>https://lionel-ragot.github.io/00-00-01-en/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-01-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book chapters in French</title>
-      <link>https://lionel-ragot.github.io/00-00-02-en/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-02-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research Reports</title>
-      <link>https://lionel-ragot.github.io/00-00-03-en/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-03-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other Reports</title>
-      <link>https://lionel-ragot.github.io/00-00-04-en/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-04-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy Papers On-Line</title>
-      <link>https://lionel-ragot.github.io/00-00-05-en/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-05-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scientific Vulgarization</title>
-      <link>https://lionel-ragot.github.io/00-00-06-en/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-06-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Written Media - Articles</title>
-      <link>https://lionel-ragot.github.io/00-00-07-en/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-07-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Written Media - Interviews</title>
-      <link>https://lionel-ragot.github.io/00-00-08-en/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-08-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet Media</title>
-      <link>https://lionel-ragot.github.io/00-00-09-en/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-09-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radio</title>
-      <link>https://lionel-ragot.github.io/00-00-10-en/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-10-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TV</title>
-      <link>https://lionel-ragot.github.io/00-00-11-en/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-11-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On-line Video</title>
-      <link>https://lionel-ragot.github.io/00-00-12-en/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-12-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cited in Media</title>
-      <link>https://lionel-ragot.github.io/00-00-13-en/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/00-00-13-en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The fiscal Impact of 30 Years of Immigration in France: an Accounting Approach</title>
       <link>https://lionel-ragot.github.io/11-00-19-en/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -383,6 +266,123 @@
       
       <guid>https://lionel-ragot.github.io/11-00-01-en/</guid>
       <description>This paper describes a dynamic applied general equilibrium model, with perfect foresight, designed for clarifying the questions concerning taxation and the environment.</description>
+    </item>
+    
+    <item>
+      <title>Book chapters in English</title>
+      <link>https://lionel-ragot.github.io/00-00-01-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-01-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book chapters in French</title>
+      <link>https://lionel-ragot.github.io/00-00-02-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-02-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cited in Media</title>
+      <link>https://lionel-ragot.github.io/00-00-13-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-13-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Media</title>
+      <link>https://lionel-ragot.github.io/00-00-09-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-09-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-line Video</title>
+      <link>https://lionel-ragot.github.io/00-00-12-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-12-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Reports</title>
+      <link>https://lionel-ragot.github.io/00-00-04-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-04-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Papers On-Line</title>
+      <link>https://lionel-ragot.github.io/00-00-05-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-05-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio</title>
+      <link>https://lionel-ragot.github.io/00-00-10-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-10-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Reports</title>
+      <link>https://lionel-ragot.github.io/00-00-03-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-03-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Vulgarization</title>
+      <link>https://lionel-ragot.github.io/00-00-06-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-06-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV</title>
+      <link>https://lionel-ragot.github.io/00-00-11-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-11-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Written Media - Articles</title>
+      <link>https://lionel-ragot.github.io/00-00-07-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-07-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Written Media - Interviews</title>
+      <link>https://lionel-ragot.github.io/00-00-08-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/00-00-08-en/</guid>
+      <description></description>
     </item>
     
   </channel>

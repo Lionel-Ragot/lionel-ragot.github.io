@@ -206,58 +206,6 @@
     <loc>https://lionel-ragot.github.io/11-01-01-en/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-01-en/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/en/others/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/others/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-02-en/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-03-en/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-04-en/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-05-en/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-06-en/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-07-en/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-08-en/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-09-en/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-10-en/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-11-en/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-12-en/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-13-en/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/international-migration/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1103,6 +1051,12 @@
                 href="https://lionel-ragot.github.io/en/tags/taxation/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-01-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-02-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-13-en/</loc>
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1114,5 +1068,37 @@
                 hreflang="en"
                 href="https://lionel-ragot.github.io/en/courses/"
                 />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-09-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-12-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-04-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-05-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/en/others/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/others/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-10-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-03-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-06-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-11-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-07-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-08-en/</loc>
   </url>
 </urlset>
