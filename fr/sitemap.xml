@@ -206,6 +206,28 @@
     <loc>https://lionel-ragot.github.io/11-01-01/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-01/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/others/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lionel-ragot.github.io/en/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lionel-ragot.github.io/fr/others/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-02/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-03/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -252,7 +274,7 @@
     <loc>https://lionel-ragot.github.io/fr/tags/sur-accumulation/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/courses/22-02-01/</loc>
+    <loc>https://lionel-ragot.github.io/22-02-01/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/carbone/</loc>
@@ -380,6 +402,9 @@
     <loc>https://lionel-ragot.github.io/fr/tags/vieillissement/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-04/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/dynamique-de-long-terme/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -388,6 +413,33 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/22-02-07/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-05/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-06/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-07/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-08/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-09/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-10/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-11/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-12/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-13/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/international-migration/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -1206,18 +1258,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lionel-ragot.github.io/fr/tags/taxation/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/others/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lionel-ragot.github.io/en/others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lionel-ragot.github.io/fr/others/"
                 />
   </url>
 </urlset>
