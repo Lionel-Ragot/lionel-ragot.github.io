@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dynamics Models on Lionel Ragot</title>
-    <link>http://localhost:4321/en/tags/dynamics-models/</link>
+    <link>https://lionel-ragot.github.io/en/tags/dynamics-models/</link>
     <description>Recent content in Dynamics Models on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/en/tags/dynamics-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/dynamics-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discrete Time Dynamics</title>
-      <link>http://localhost:4321/13-01-01-en/</link>
+      <link>https://lionel-ragot.github.io/13-01-01-en/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/13-01-01-en/</guid>
+      <guid>https://lionel-ragot.github.io/13-01-01-en/</guid>
       <description> </description>
     </item>
     
