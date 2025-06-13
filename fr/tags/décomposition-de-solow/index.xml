@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Décomposition De Solow on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</link>
+    <description>Recent content in Décomposition De Solow on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Théorie de la croissance</title>
+      <link>https://lionel-ragot.github.io/22-02-01/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/22-02-01/</guid>
+      <description>Ce cours est une introduction à l’analyse de la dynamique économique de long terme (la croissance économique) - Niveau L3 -</description>
+    </item>
+    
+  </channel>
+</rss>

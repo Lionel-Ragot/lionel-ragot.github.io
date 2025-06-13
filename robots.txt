@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lionel-ragot.github.io/sitemap.xml

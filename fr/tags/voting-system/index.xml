@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Voting System on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/fr/tags/voting-system/</link>
+    <description>Recent content in Voting System on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/voting-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quel mode de scrutin pour quel « vainqueur » ? Une expérience sur le vote préférentiel transférable</title>
+      <link>https://lionel-ragot.github.io/11-00-06/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-06/</guid>
+      <description>Dans cet article nous présentons les résultats d’une expérience électorale réalisée durant l&amp;rsquo;élection présidentielle de 2007 qui avait pour objectifs de confronter le vote préférentiel transférable à deux critères : la simplicité et la sélection du vainqueur de Condorcet.</description>
+    </item>
+    
+  </channel>
+</rss>

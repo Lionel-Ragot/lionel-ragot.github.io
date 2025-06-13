@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Discrete Time Dynamics | Lionel Ragot</title>
+<meta name="keywords" content="discretization, economic growth, Optimal control, Dynamics models">
+<meta name="description" content=" ">
+<meta name="author" content="Stefano Bosi et Lionel Ragot">
+<link rel="canonical" href="https://lionel-ragot.github.io/13-01-01/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.936f12481e08fd026d71aec96f499eee41dfcadfc78e1a5b8740101232f977f8.css" integrity="sha256-k28SSB4I/QJtca7Jb0me7kHfyt/Hjhpbh0AQEjL5d/g=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://lionel-ragot.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://lionel-ragot.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://lionel-ragot.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://lionel-ragot.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://lionel-ragot.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="fr" href="https://lionel-ragot.github.io/13-01-01/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Discrete Time Dynamics" />
+<meta property="og:description" content=" " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lionel-ragot.github.io/13-01-01/" />
+<meta property="og:image" content="https://lionel-ragot.github.io/livre-discrete-time.png" /><meta property="article:section" content="books" />
+<meta property="article:published_time" content="2011-01-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2011-01-01T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://lionel-ragot.github.io/livre-discrete-time.png" />
+<meta name="twitter:title" content="Discrete Time Dynamics"/>
+<meta name="twitter:description" content=" "/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Publications",
+      "item": "https://lionel-ragot.github.io/fr/books/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Discrete Time Dynamics",
+      "item": "https://lionel-ragot.github.io/13-01-01/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Discrete Time Dynamics",
+  "name": "Discrete Time Dynamics",
+  "description": " ",
+  "keywords": [
+    "discretization", "economic growth", "Optimal control", "Dynamics models"
+  ],
+  "articleBody": "Préface\nMost economists seem to agree that economic fluctuations display irregular but recurrent patterns overtime. During the 1960s and 1970s, a predominant approach is to assume that these fluctuations are exogenously generated. More precisely, if the fundamentals of the economy (tastes, technologies, endowments…) are constant overtime, no persistent fluctuations occur. These movements are essentially due to exogenous shocks. However, many papers, for instance Harrod (1936), Kalecki (1937), Samuelson (1939), Kaldor (1940), Hicks (1950) and Goodwin (1951), present economic models where cycles are endogenously generated through the multiplier-accelerator mechanism. Moreover, even in the absence of shocks, the internal dynamics of an economy may have complex features such as periodic orbits or chaos: see, among others, Benhabib and Day (1981), Day (1983), Dana and Malgrange (1984), Benhabib and Nishimura (1985), Grandmont (1985) and, notably, the introduction to a special issue of the Journal of Economic Theory by Grandmont and Malgrange in 1986. Arguably, this special issue has opened a flourishing line of research on the factors generating complex dynamics in economic systems. It is important for decision makers to know the “roots” of these complex behaviors arising in different economies. However, it is also necessary to understand some mathematical objects such as bifurcations and cycles… A huge literature dealing with these topics exists in the libraries of several faculties of economics. But we miss some textbooks that introduce Master and PhD students, and junior researchers into these difficult concepts. In this respect, the book by Stefano Bosi and Lionel Ragot is very welcome. In Chapter 1, the reader will get used to the properties of the matrices and their powers. This first step will introduce her/him to the multidimensional dynamic systems of Chapter 2. The core of the book is Chapter 3. The reader, through simple examples, can understand relatively easily bifurcations, cycles and complex dynamics. Chapter 4 deals with the discretization of continuous-time systems. Maybe, “what is time is a timeless question”, as claimed by the authors in the Introduction. As a matter of fact, the discretization problem is not innocuous. I just mention the 1984 paper by Dana and Malgrange where they find chaotic dynamics in a discrete time version of a growth model which exhibits, in continuous time, a limit cycle. Chapter 5, precisely, will convince the reader to be cautious when she/he wants to discretize continuous-time systems. I am very glad and honored to present this book. Glad because I have learnt many new things by reading it. Honored because Stefano Bosi and Lionel Ragot, who are esteemed academics, asked me to write this preface.\nCuong Le Van\nCNRS Research Director Paris, July 14th, 2011\n",
+  "wordCount" : "437",
+  "inLanguage": "fr",
+  "image":"https://lionel-ragot.github.io/livre-discrete-time.png","datePublished": "2011-01-01T00:00:00Z",
+  "dateModified": "2011-01-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Stefano Bosi et Lionel Ragot"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lionel-ragot.github.io/13-01-01/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lionel Ragot",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lionel-ragot.github.io/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://lionel-ragot.github.io/fr/" accesskey="h" title="Lionel Ragot (Alt + H)">Lionel Ragot</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://lionel-ragot.github.io/en/" title="English"
+                            aria-label="English">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/publications/" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/articles" title="Pub/Articles">
+                    <span>Pub/Articles</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/books" title="Pub/livres">
+                    <span>Pub/livres</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/others" title="Pub/Autres">
+                    <span>Pub/Autres</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/courses/" title="Enseignements">
+                    <span>Enseignements</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/dialectix" title="DialectiX">
+                    <span>DialectiX</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/LR-blog.github.io/" title="Blog">
+                    <span>Blog</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Discrete Time Dynamics
+    </h1>
+    <div class="post-description">
+       
+    </div>
+    <div class="post-meta">&lt;span title=&#39;2011-01-01 00:00:00 &#43;0000 UTC&#39;&gt;janvier 1, 2011&lt;/span&gt;&amp;nbsp;·&amp;nbsp;Stefano Bosi et Lionel Ragot
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="lazy" srcset="https://lionel-ragot.github.io/13-01-01/livre-discrete-time.png 212w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://lionel-ragot.github.io/13-01-01/livre-discrete-time.png" alt="Image from book" 
+            width="212" height="302">
+        
+</figure>
+
+  <div class="post-content"><p><strong>Préface</strong></p>
+<p>Most economists seem to agree that economic fluctuations display irregular but recurrent patterns overtime. During the 1960s and 1970s, a predominant approach is to assume that these fluctuations are exogenously generated. More precisely, if the fundamentals of the economy (tastes, technologies, endowments&hellip;) are constant overtime, no persistent fluctuations occur. These movements are essentially due to exogenous shocks. However, many papers, for instance Harrod (1936), Kalecki (1937), Samuelson (1939), Kaldor (1940), Hicks (1950) and Goodwin (1951), present economic models where cycles are endogenously generated through the multiplier-accelerator mechanism. Moreover, even in the absence of shocks, the internal dynamics of an economy may have complex features such as periodic orbits or chaos: see, among others, Benhabib and Day (1981), Day (1983), Dana and Malgrange (1984), Benhabib and Nishimura (1985), Grandmont (1985) and, notably, the introduction to a special issue of the Journal of Economic Theory by Grandmont and Malgrange in 1986. Arguably, this special issue has opened a flourishing line of research on the factors generating complex dynamics in economic systems. It is important for decision makers to know the &ldquo;roots&rdquo; of these complex behaviors arising in different economies. However, it is also necessary to understand some mathematical objects such as bifurcations and cycles&hellip; A huge literature dealing with these topics exists in the libraries of several faculties of economics. But we miss some textbooks that introduce Master and PhD students, and junior researchers into these difficult concepts. In this respect, the book by Stefano Bosi and Lionel Ragot is very welcome. In Chapter 1, the reader will get used to the properties of the matrices and their powers. This first step will introduce her/him to the multidimensional dynamic systems of Chapter 2. The core of the book is Chapter 3. The reader, through simple examples, can understand relatively easily bifurcations, cycles and complex dynamics. Chapter 4 deals with the discretization of continuous-time systems. Maybe, &ldquo;what is time is a timeless question&rdquo;, as claimed by the authors in the Introduction. As a matter of fact, the discretization problem is not innocuous. I just mention the 1984 paper by Dana and Malgrange where they find chaotic dynamics in a discrete time version of a growth model which exhibits, in continuous time, a limit cycle. Chapter 5, precisely, will convince the reader to be cautious when she/he wants to discretize continuous-time systems.
+I am very glad and honored to present this book. Glad because I have learnt many new things by reading it. Honored because Stefano Bosi and Lionel Ragot, who are esteemed academics, asked me to write this preface.</p>
+<p>Cuong Le Van<br />
+CNRS Research Director Paris, July 14th, 2011</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://lionel-ragot.github.io/fr/tags/discretization/">Discretization</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/economic-growth/">Economic Growth</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/optimal-control/">Optimal Control</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/dynamics-models/">Dynamics Models</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="https://lionel-ragot.github.io/fr/">Lionel Ragot</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

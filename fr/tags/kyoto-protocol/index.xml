@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kyoto Protocol on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/fr/tags/kyoto-protocol/</link>
+    <description>Recent content in Kyoto Protocol on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/kyoto-protocol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La politique optimale de séquestration du carbone par les sols agricoles en France</title>
+      <link>https://lionel-ragot.github.io/11-00-07/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-07/</guid>
+      <description>Cette étude analyse la trajectoire optimale de séquestration du carbone par les sols agricoles français.</description>
+    </item>
+    
+    <item>
+      <title>The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?</title>
+      <link>https://lionel-ragot.github.io/11-00-05/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-05/</guid>
+      <description>Cet article prend explicitement en compte la temporalité de la séquestration. Sa principale contribution réside dans la modélisation de l&amp;rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique.</description>
+    </item>
+    
+  </channel>
+</rss>
