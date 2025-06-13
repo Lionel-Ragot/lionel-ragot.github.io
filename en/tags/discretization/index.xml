@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Discretization on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/tags/discretization/</link>
+    <description>Recent content in Discretization on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/discretization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Representation in Economics</title>
+      <link>https://lionel-ragot.github.io/11-00-12-en/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-12-en/</guid>
+      <description>In this paper, we study general polynomial discretizations in backward and forward looking, and the preservation of stability properties.</description>
+    </item>
+    
+    <item>
+      <title>Discrete Time Dynamics</title>
+      <link>https://lionel-ragot.github.io/13-01-01-en/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/13-01-01-en/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

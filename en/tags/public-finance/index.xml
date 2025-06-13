@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Public Finance on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/tags/public-finance/</link>
+    <description>Recent content in Public Finance on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/public-finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impacts of Immigration on an Ageing Welfare State: An Applied General Equilibrium Model for France</title>
+      <link>https://lionel-ragot.github.io/11-00-16-en/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-16-en/</guid>
+      <description>In this paper, we evaluate, using a dynamic general equilibrium model, the contribution of migration policy in reducing the tax burden associated with the ageing population in France.</description>
+    </item>
+    
+  </channel>
+</rss>

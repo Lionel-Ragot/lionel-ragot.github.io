@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selective Migration on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/tags/selective-migration/</link>
+    <description>Recent content in Selective Migration on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/selective-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Immigration, vieillissement démographique et financement de la protection sociale</title>
+      <link>https://lionel-ragot.github.io/11-00-11-en/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-11-en/</guid>
+      <description>In this paper, we evaluate, using a dynamic general equilibrium model, the contribution of migration policy in reducing the tax burden associated with the aging population in France.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;immigration « choisie » face aux défis économiques du vieillissement démographique</title>
+      <link>https://lionel-ragot.github.io/11-00-04-en/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-04-en/</guid>
+      <description>In this paper, we show that replacement migration requires important flows whereas it implies only weak economic and financial effects.</description>
+    </item>
+    
+  </channel>
+</rss>

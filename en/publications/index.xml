@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/publications/</link>
+    <description>Recent content in Publications on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Macroeconomics of Free Digital Services</title>
+      <link>https://lionel-ragot.github.io/11-01-01-en/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-01-01-en/</guid>
+      <description>In this article, we develop a growth model with digital service providers collecting data from households in exchange for using their services to sell targeted advertising to traditional companies. It allows us to study the impacts of this sector on the main macroeconomic aggregates and welfare in the context of the United States</description>
+    </item>
+    
+    <item>
+      <title>Asssessing the Role of Immigration Policy for Foreign Students: the Case of Campus France</title>
+      <link>https://lionel-ragot.github.io/11-00-02-en/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-02-en/</guid>
+      <description>Using a Diff-in-Diff-in-Diff approach, we test the impact of Campus France on the volume of enrollments in French universities. We pay attention to the heterogeneity of these effects across different types of universities.</description>
+    </item>
+    
+    <item>
+      <title>The fiscal Impact of 30 Years of Immigration in France: an Accounting Approach</title>
+      <link>https://lionel-ragot.github.io/11-01-04-en/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-01-04-en/</guid>
+      <description>This article aims to evaluate the net contribution of immigration to the public finances of France between the late 1970s and the early 2010s.</description>
+    </item>
+    
+    <item>
+      <title>La dépendance de l’Europe au gaz russe: état des lieux et perspectives</title>
+      <link>https://lionel-ragot.github.io/11-01-03-en/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-01-03-en/</guid>
+      <description>This article analyzes the stakes and challenges for Europe of the Russian-Ukrainian conflict on the gas market.</description>
+    </item>
+    
+    <item>
+      <title>The role of fees in foreign education: evidence from Italy</title>
+      <link>https://lionel-ragot.github.io/11-01-05-en/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-01-05-en/</guid>
+      <description>This article studies the determinants of international students’ mobility at the university level, focusing specifically on the role of tuition fees.</description>
+    </item>
+    
+  </channel>
+</rss>

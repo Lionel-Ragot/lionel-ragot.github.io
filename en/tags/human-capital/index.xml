@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Human Capital on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/en/tags/human-capital/</link>
+    <description>Recent content in Human Capital on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/en/tags/human-capital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Optimal Control of Pollution in a Human Capital Growth Model</title>
+      <link>https://lionel-ragot.github.io/11-00-13-en/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/11-00-13-en/</guid>
+      <description>To capture the impact of pollution on economic growth, we compute the optimal policy in a continuous-time endogenous growth model à la Lucas (1988).</description>
+    </item>
+    
+  </channel>
+</rss>

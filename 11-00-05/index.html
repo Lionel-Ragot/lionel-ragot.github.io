@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter? | Lionel Ragot</title>
+<meta name="keywords" content="Environment, Agriculture, Carbon sequestration, Kyoto Protocol, Optimal control">
+<meta name="description" content="Cet article prend explicitement en compte la temporalité de la séquestration. Sa principale contribution réside dans la modélisation de l&rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique.">
+<meta name="author" content="Lionel Ragot and Katheline Schubert">
+<link rel="canonical" href="https://lionel-ragot.github.io/11-00-05/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.936f12481e08fd026d71aec96f499eee41dfcadfc78e1a5b8740101232f977f8.css" integrity="sha256-k28SSB4I/QJtca7Jb0me7kHfyt/Hjhpbh0AQEjL5d/g=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://lionel-ragot.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://lionel-ragot.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://lionel-ragot.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://lionel-ragot.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://lionel-ragot.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="fr" href="https://lionel-ragot.github.io/11-00-05/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?" />
+<meta property="og:description" content="Cet article prend explicitement en compte la temporalité de la séquestration. Sa principale contribution réside dans la modélisation de l&rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lionel-ragot.github.io/11-00-05/" /><meta property="article:section" content="articles" />
+<meta property="article:published_time" content="2008-12-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2008-12-01T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?"/>
+<meta name="twitter:description" content="Cet article prend explicitement en compte la temporalité de la séquestration. Sa principale contribution réside dans la modélisation de l&rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Publications",
+      "item": "https://lionel-ragot.github.io/fr/articles/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?",
+      "item": "https://lionel-ragot.github.io/11-00-05/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?",
+  "name": "The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?",
+  "description": "Cet article prend explicitement en compte la temporalité de la séquestration. Sa principale contribution réside dans la modélisation de l\u0026rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique.",
+  "keywords": [
+    "Environment", "Agriculture", "Carbon sequestration", "Kyoto Protocol", "Optimal control"
+  ],
+  "articleBody": " Téléchargement Article - Journal of Economic Dynamics and Control Résumé Le protocole de Kyoto, entré en vigueur en février 2005, permet aux pays de recourir à des “activités supplémentaires”, consistant notamment en la séquestration du carbone dans les sols agricoles. Les travaux existants qui étudient la séquestration optimale du carbone reconnaissent l’importance de la temporalité de la séquestration, mais négligent le fait qu’il s’agit d’un processus dynamique asymétrique. Cet article prend explicitement en compte la temporalité de la séquestration. Sa première contribution réside dans la modélisation de l’asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique. Sa deuxième contribution est empirique. Nous calculons numériquement la trajectoire optimale de séquestration/déséquestration pour des fonctions de dommages et de coûts spécifiques, et un étalonnage qui reproduit grosso modo les conditions mondiales. Nous montrons qu’avec ces hypothèses, la séquestration doit être permanente et que l’erreur commise lorsque la séquestration est supposée être immédiate peut être très importante.\nAbstract The Kyoto Protocol, which came into force in February 2005, allows countries to resort to ‘supplementary activities’, consisting particularly in carbon sequestration in agricultural soils. Existing papers studying the optimal carbon sequestration recognize the importance of the temporality of sequestration, but overlook the fact that it is an asymmetric dynamic process. This paper takes explicitly into account the temporality of sequestration. Its first contribution lies in the modelling of the asymmetry of the sequestration/de-sequestration process at a micro level, and of its consequences at a macro level. Its second contribution is empirical. We compute numerically the optimal path of sequestration/de-sequestration for specific damage and cost functions, and a calibration that mimics roughly the world conditions. We show that with these assumptions sequestration must be permanent, and that the error made when sequestration is supposed immediate can be very significant.\nCitation Text Ragot, Lionel and Schubert, Katheline, (2008), The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?, Journal of Economic Dynamics and Control, 32, issue 12, p. 3847-3865, https://EconPapers.repec.org/RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865. BibTex @ARTICLE{RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865, title = {The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?}, author = {Ragot, Lionel and Schubert, Katheline}, year = {2008}, journal = {Journal of Economic Dynamics and Control}, volume = {32}, number = {12}, pages = {3847-3865}, abstract = {The Kyoto Protocol, which came into force in February 2005, allows countries to resort to 'supplementary activities', consisting particularly in carbon sequestration in agricultural soils. Existing papers studying the optimal carbon sequestration recognize the importance of the temporality of sequestration, but overlook the fact that it is an asymmetric dynamic process. This paper takes explicitly into account the temporality of sequestration. Its first contribution lies in the modelling of the asymmetry of the sequestration/de-sequestration process at a micro level, and of its consequences at a macro level. Its second contribution is empirical. We compute numerically the optimal path of sequestration/de-sequestration for specific damage and cost functions, and a calibration that mimics roughly the world conditions. We show that with these assumptions sequestration must be permanent, and that the error made when sequestration is supposed immediate can be very significant.}, keywords = {Environment Agriculture Carbon sequestration Kyoto Protocol Optimal control}, url = {https://EconPapers.repec.org/RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865} } ",
+  "wordCount" : "535",
+  "inLanguage": "fr",
+  "datePublished": "2008-12-01T00:00:00Z",
+  "dateModified": "2008-12-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Lionel Ragot and Katheline Schubert"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lionel-ragot.github.io/11-00-05/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lionel Ragot",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lionel-ragot.github.io/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://lionel-ragot.github.io/fr/" accesskey="h" title="Lionel Ragot (Alt + H)">Lionel Ragot</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://lionel-ragot.github.io/en/" title="English"
+                            aria-label="English">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/publications/" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/articles" title="Pub/Articles">
+                    <span>Pub/Articles</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/books" title="Pub/livres">
+                    <span>Pub/livres</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/others" title="Pub/Autres">
+                    <span>Pub/Autres</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/courses/" title="Enseignements">
+                    <span>Enseignements</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/dialectix" title="DialectiX">
+                    <span>DialectiX</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/LR-blog.github.io/" title="Blog">
+                    <span>Blog</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://lionel-ragot.github.io/fr/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?
+    </h1>
+    <div class="post-meta">&lt;span title=&#39;2008-12-01 00:00:00 &#43;0000 UTC&#39;&gt;décembre 1, 2008&lt;/span&gt;&amp;nbsp;·&amp;nbsp;Lionel Ragot and Katheline Schubert
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h2 id="téléchargement">Téléchargement<a hidden class="anchor" aria-hidden="true" href="#téléchargement">#</a></h2>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188908000626">Article - <em>Journal of Economic Dynamics and Control</em></a></li>
+</ul>
+<hr>
+<h2 id="résumé">Résumé<a hidden class="anchor" aria-hidden="true" href="#résumé">#</a></h2>
+<p>Le protocole de Kyoto, entré en vigueur en février 2005, permet aux pays de recourir à des &ldquo;activités supplémentaires&rdquo;, consistant notamment en la séquestration du carbone dans les sols agricoles. Les travaux existants qui étudient la séquestration optimale du carbone reconnaissent l&rsquo;importance de la temporalité de la séquestration, mais négligent le fait qu&rsquo;il s&rsquo;agit d&rsquo;un processus dynamique asymétrique. Cet article prend explicitement en compte la temporalité de la séquestration. Sa première contribution réside dans la modélisation de l&rsquo;asymétrie du processus de séquestration/déséquestration au niveau microéconomique et de ses conséquences au niveau macroéconomique. Sa deuxième contribution est empirique. Nous calculons numériquement la trajectoire optimale de séquestration/déséquestration pour des fonctions de dommages et de coûts spécifiques, et un étalonnage qui reproduit <em>grosso modo</em> les conditions mondiales. Nous montrons qu&rsquo;avec ces hypothèses, la séquestration doit être permanente et que l&rsquo;erreur commise lorsque la séquestration est supposée être immédiate peut être très importante.</p>
+<hr>
+<h2 id="abstract">Abstract<a hidden class="anchor" aria-hidden="true" href="#abstract">#</a></h2>
+<p>The Kyoto Protocol, which came into force in February 2005, allows countries to resort to ‘supplementary activities’, consisting particularly in carbon sequestration in agricultural soils. Existing papers studying the optimal carbon sequestration recognize the importance of the temporality of sequestration, but overlook the fact that it is an asymmetric dynamic process. This paper takes explicitly into account the temporality of sequestration. Its first contribution lies in the modelling of the asymmetry of the sequestration/de-sequestration process at a micro level, and of its consequences at a macro level. Its second contribution is empirical. We compute numerically the optimal path of sequestration/de-sequestration for specific damage and cost functions, and a calibration that mimics roughly the world conditions. We show that with these assumptions sequestration must be permanent, and that the error made when sequestration is supposed immediate can be very significant.</p>
+<hr>
+<h2 id="citation">Citation<a hidden class="anchor" aria-hidden="true" href="#citation">#</a></h2>
+
+
+<p><details >
+  <summary markdown="span">Text</summary>
+  <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-BibTeX" data-lang="BibTeX"><span class="line"><span class="cl"><span class="c">Ragot, Lionel and Schubert, Katheline, (2008), The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?, Journal of Economic Dynamics and Control, 32, issue 12, p. 3847-3865, https://EconPapers.repec.org/RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865.</span>
+</span></span></code></pre></div>
+</details></p>
+
+
+
+<p><details >
+  <summary markdown="span">BibTex</summary>
+  <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-BibTeX" data-lang="BibTeX"><span class="line"><span class="cl"><span class="nc">@ARTICLE</span><span class="p">{</span><span class="nl">RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">title</span> <span class="p">=</span> <span class="s">{The optimal carbon sequestration in agricultural soils: Do the dynamics of the physical process matter?}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">author</span> <span class="p">=</span> <span class="s">{Ragot, Lionel and Schubert, Katheline}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">year</span> <span class="p">=</span> <span class="s">{2008}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">journal</span> <span class="p">=</span> <span class="s">{Journal of Economic Dynamics and Control}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">volume</span> <span class="p">=</span> <span class="s">{32}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">number</span> <span class="p">=</span> <span class="s">{12}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">pages</span> <span class="p">=</span> <span class="s">{3847-3865}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">abstract</span> <span class="p">=</span> <span class="s">{The Kyoto Protocol, which came into force in February 2005, allows countries to resort to &#39;supplementary activities&#39;, consisting particularly in carbon sequestration in agricultural soils. Existing papers studying the optimal carbon sequestration recognize the importance of the temporality of sequestration, but overlook the fact that it is an asymmetric dynamic process. This paper takes explicitly into account the temporality of sequestration. Its first contribution lies in the modelling of the asymmetry of the sequestration/de-sequestration process at a micro level, and of its consequences at a macro level. Its second contribution is empirical. We compute numerically the optimal path of sequestration/de-sequestration for specific damage and cost functions, and a calibration that mimics roughly the world conditions. We show that with these assumptions sequestration must be permanent, and that the error made when sequestration is supposed immediate can be very significant.}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">keywords</span> <span class="p">=</span> <span class="s">{Environment Agriculture Carbon sequestration Kyoto Protocol Optimal control}</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="na">url</span> <span class="p">=</span> <span class="s">{https://EconPapers.repec.org/RePEc:eee:dyncon:v:32:y:2008:i:12:p:3847-3865}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div>
+</details></p>
+
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://lionel-ragot.github.io/fr/tags/environment/">Environment</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/agriculture/">Agriculture</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/carbon-sequestration/">Carbon Sequestration</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/kyoto-protocol/">Kyoto Protocol</a></li>
+      <li><a href="https://lionel-ragot.github.io/fr/tags/optimal-control/">Optimal Control</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="https://lionel-ragot.github.io/fr/">Lionel Ragot</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

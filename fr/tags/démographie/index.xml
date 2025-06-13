@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Démographie on Lionel Ragot</title>
+    <link>https://lionel-ragot.github.io/fr/tags/d%C3%A9mographie/</link>
+    <description>Recent content in Démographie on Lionel Ragot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 02 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/d%C3%A9mographie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Économie des migrations internationales</title>
+      <link>https://lionel-ragot.github.io/22-02-06/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/22-02-06/</guid>
+      <description>Ce cours de formation à la recherche porte sur l’analyse économique des migrations internationales. Il se concentre principalement sur les effets des migrations internationales sur les économies développées - Niveau M2 -</description>
+    </item>
+    
+    <item>
+      <title>Macroéconomie Approfondie - École doctorale</title>
+      <link>https://lionel-ragot.github.io/22-02-07/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/22-02-07/</guid>
+      <description>Ce module vise à donner aux doctorants une description assez précise des questions contemporaines traitées par la théorie de la croissance, des principaux enseignements délivrés et une présentation des techniques quantitatives (en particulier l’optimisation dynamique et l’analyse des systèmes dynamiques) qu’il faut maîtriser pour pouvoir lire les articles de cette littérature et y contribuer - Niveau ED -</description>
+    </item>
+    
+    <item>
+      <title>On entend dire que l&#39;immigration coûte cher à la France - Qu&#39;en pensent les économistes? </title>
+      <link>https://lionel-ragot.github.io/13-01-02/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/13-01-02/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
