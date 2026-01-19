@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/courses/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/courses/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/epist%C3%A9mologie/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/equations-aux-diff%C3%A9rences/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/equations-diff%C3%A9rentielles/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/faits-stylis%C3%A9s-de-kaldor/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/innefficience-dynamique/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-solow/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/r%C3%A8gle-dor/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/sous-accumulation/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/sur-accumulation/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/22-02-01/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/advertising/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,19 +129,6 @@
                 href="https://lionel-ragot.github.io/fr/tags/economic-growth/"
                 />
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/privacy/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,19 +153,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/publications/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/tags/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/11-01-01/</loc>
@@ -205,55 +254,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/11-00-22/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/courses/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/courses/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/epist%C3%A9mologie/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/equations-aux-diff%C3%A9rences/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/equations-diff%C3%A9rentielles/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/faits-stylis%C3%A9s-de-kaldor/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/innefficience-dynamique/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-solow/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/r%C3%A8gle-dor/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/sous-accumulation/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/sur-accumulation/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-01/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/carbone/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
