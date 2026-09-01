@@ -6,13 +6,67 @@
     <description>Recent content in Tags on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contrôle Optimal</title>
+      <link>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Croissance Durable</title>
+      <link>https://lionel-ragot.github.io/fr/tags/croissance-durable/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/croissance-durable/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Croissance Économique</title>
       <link>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Croissance Endogène</title>
+      <link>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Décroissance</title>
+      <link>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environnement</title>
+      <link>https://lionel-ragot.github.io/fr/tags/environnement/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/environnement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation Dynamique</title>
+      <link>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</guid>
       <description></description>
     </item>
     
@@ -224,15 +278,6 @@
     </item>
     
     <item>
-      <title>Environnement</title>
-      <link>https://lionel-ragot.github.io/fr/tags/environnement/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/environnement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Régulation</title>
       <link>https://lionel-ragot.github.io/fr/tags/r%C3%A9gulation/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
@@ -269,24 +314,6 @@
     </item>
     
     <item>
-      <title>Contrôle Optimal</title>
-      <link>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Croissance Endogène</title>
-      <link>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Croissance Optimale</title>
       <link>https://lionel-ragot.github.io/fr/tags/croissance-optimale/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
@@ -319,15 +346,6 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-ramsey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimisation Dynamique</title>
-      <link>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</guid>
       <description></description>
     </item>
     
@@ -400,24 +418,6 @@
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lionel-ragot.github.io/fr/tags/pib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Croissance Durable</title>
-      <link>https://lionel-ragot.github.io/fr/tags/croissance-durable/</link>
-      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/croissance-durable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Décroissance</title>
-      <link>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</link>
-      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</guid>
       <description></description>
     </item>
     

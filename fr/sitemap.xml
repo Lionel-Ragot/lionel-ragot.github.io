@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <loc>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <loc>https://lionel-ragot.github.io/fr/tags/croissance-durable/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/22-02-05/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/croissance-%C3%A9conomique/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/courses/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -20,6 +32,41 @@
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/courses/"
                 />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/environnement/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/epist%C3%A9mologie/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
@@ -36,19 +83,6 @@
     <loc>https://lionel-ragot.github.io/fr/tags/innefficience-dynamique/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-solow/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,19 +94,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/sur-accumulation/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/tags/"
-                />
   </url><url>
     <loc>https://lionel-ragot.github.io/22-02-01/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
@@ -264,9 +285,6 @@
     <loc>https://lionel-ragot.github.io/fr/tags/energie/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/environnement/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/r%C3%A9gulation/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -278,12 +296,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/valorisation-mon%C3%A9taire/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/croissance-endog%C3%A8ne/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/croissance-optimale/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
@@ -298,9 +310,6 @@
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/enseignements/22-02-03/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/ch%C3%B4mage/</loc>
@@ -329,15 +338,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/pib/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/croissance-durable/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-05/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9mographie/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
