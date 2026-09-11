@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lionel-ragot.github.io/fr/tags/cass-koopmans/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/diagramme-des-phases/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/32-09/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/dynamique-%C3%A9conomique/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/courses/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/courses/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/%C3%A9quation-deuler/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/%C3%A9quations-aux-diff%C3%A9rences/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/%C3%A9quations-diff%C3%A9rentielles/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/%C3%A9tat-stationnaire/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-kaldor/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/mod%C3%A8le-de-samuelson/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/multiplicateur-keyn%C3%A9sien/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/optimisation-intertemporelle/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/point-selle/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/stabilit%C3%A9/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/tags/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/contr%C3%B4le-optimal/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,50 +101,11 @@
     <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9croissance/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/courses/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/courses/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/environnement/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lionel-ragot.github.io/fr/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/"
-                />
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/optimisation-dynamique/</loc>
     <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/tags/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/tags/"
-                />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/d%C3%A9composition-de-solow/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
