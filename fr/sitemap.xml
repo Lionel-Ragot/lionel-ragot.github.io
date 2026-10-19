@@ -852,6 +852,19 @@
                 href="https://lionel-ragot.github.io/fr/tags/int%C3%A9gration/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/fr/books/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/books/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/march%C3%A9-du-travail/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -879,19 +892,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/tags/politiques-migratoires/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/books/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/books/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/selective-migration/</loc>
@@ -1226,6 +1226,18 @@
                 href="https://lionel-ragot.github.io/fr/tags/taxation/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/fr/others/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/others/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/00-00-01/</loc>
   </url><url>
     <loc>https://lionel-ragot.github.io/00-00-02/</loc>
@@ -1243,18 +1255,6 @@
     <loc>https://lionel-ragot.github.io/00-00-08/</loc>
   </url><url>
     <loc>https://lionel-ragot.github.io/00-00-05/</loc>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/others/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/others/"
-                />
   </url><url>
     <loc>https://lionel-ragot.github.io/00-00-10/</loc>
   </url><url>
