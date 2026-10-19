@@ -10,7 +10,7 @@
 <meta name="description" content=" ">
 <meta name="author" content="Stefano Bosi and Lionel Ragot">
 <link rel="canonical" href="https://lionel-ragot.github.io/13-01-01-en/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.05a9fdd97a3f79e9871c540c541e7137861699cbd2cc957da99cc8482f304708.css" integrity="sha256-Ban92Xo/eemHHFQMVB5xN4YWmcvSzJV9qZzISC8wRwg=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6fad36c6e6a55a833aaebc988de413197f662df962523857d1b0a69495a2e533.css" integrity="sha256-b602xualWoM6rryYjeQTGX9mLfliUjhX0bCmlJWi5TM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://lionel-ragot.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://lionel-ragot.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://lionel-ragot.github.io/favicon-32x32.png">
@@ -99,8 +99,8 @@
   "keywords": [
     "discretization", "economic growth", "Optimal control", "Dynamics models"
   ],
-  "articleBody": "Preface\nMost economists seem to agree that economic fluctuations display irregular but recurrent patterns overtime. During the 1960s and 1970s, a predominant approach is to assume that these fluctuations are exogenously generated. More precisely, if the fundamentals of the economy (tastes, technologies, endowments…) are constant overtime, no persistent fluctuations occur. These movements are essentially due to exogenous shocks. However, many papers, for instance Harrod (1936), Kalecki (1937), Samuelson (1939), Kaldor (1940), Hicks (1950) and Goodwin (1951), present economic models where cycles are endogenously generated through the multiplier-accelerator mechanism. Moreover, even in the absence of shocks, the internal dynamics of an economy may have complex features such as periodic orbits or chaos: see, among others, Benhabib and Day (1981), Day (1983), Dana and Malgrange (1984), Benhabib and Nishimura (1985), Grandmont (1985) and, notably, the introduction to a special issue of the Journal of Economic Theory by Grandmont and Malgrange in 1986. Arguably, this special issue has opened a flourishing line of research on the factors generating complex dynamics in economic systems. It is important for decision makers to know the “roots” of these complex behaviors arising in different economies. However, it is also necessary to understand some mathematical objects such as bifurcations and cycles… A huge literature dealing with these topics exists in the libraries of several faculties of economics. But we miss some textbooks that introduce Master and PhD students, and junior researchers into these difficult concepts. In this respect, the book by Stefano Bosi and Lionel Ragot is very welcome. In Chapter 1, the reader will get used to the properties of the matrices and their powers. This first step will introduce her/him to the multidimensional dynamic systems of Chapter 2. The core of the book is Chapter 3. The reader, through simple examples, can understand relatively easily bifurcations, cycles and complex dynamics. Chapter 4 deals with the discretization of continuous-time systems. Maybe, “what is time is a timeless question”, as claimed by the authors in the Introduction. As a matter of fact, the discretization problem is not innocuous. I just mention the 1984 paper by Dana and Malgrange where they find chaotic dynamics in a discrete time version of a growth model which exhibits, in continuous time, a limit cycle. Chapter 5, precisely, will convince the reader to be cautious when she/he wants to discretize continuous-time systems. I am very glad and honored to present this book. Glad because I have learnt many new things by reading it. Honored because Stefano Bosi and Lionel Ragot, who are esteemed academics, asked me to write this preface.\nCuong Le Van\nCNRS Research Director Paris, July 14th, 2011\n",
-  "wordCount" : "437",
+  "articleBody": "📚 Book CLUEB\n📄 Reference\nBosi, S. and L. Ragot (2011), Discrete-Time Dynamics: An Introduction, CLUEB, Bologna.\nPreface Most economists seem to agree that economic fluctuations display irregular but recurrent patterns overtime. During the 1960s and 1970s, a predominant approach is to assume that these fluctuations are exogenously generated. More precisely, if the fundamentals of the economy (tastes, technologies, endowments…) are constant overtime, no persistent fluctuations occur. These movements are essentially due to exogenous shocks. However, many papers, for instance Harrod (1936), Kalecki (1937), Samuelson (1939), Kaldor (1940), Hicks (1950) and Goodwin (1951), present economic models where cycles are endogenously generated through the multiplier-accelerator mechanism. Moreover, even in the absence of shocks, the internal dynamics of an economy may have complex features such as periodic orbits or chaos: see, among others, Benhabib and Day (1981), Day (1983), Dana and Malgrange (1984), Benhabib and Nishimura (1985), Grandmont (1985) and, notably, the introduction to a special issue of the Journal of Economic Theory by Grandmont and Malgrange in 1986. Arguably, this special issue has opened a flourishing line of research on the factors generating complex dynamics in economic systems. It is important for decision makers to know the “roots” of these complex behaviors arising in different economies. However, it is also necessary to understand some mathematical objects such as bifurcations and cycles… A huge literature dealing with these topics exists in the libraries of several faculties of economics. But we miss some textbooks that introduce Master and PhD students, and junior researchers into these difficult concepts. In this respect, the book by Stefano Bosi and Lionel Ragot is very welcome. In Chapter 1, the reader will get used to the properties of the matrices and their powers. This first step will introduce her/him to the multidimensional dynamic systems of Chapter 2. The core of the book is Chapter 3. The reader, through simple examples, can understand relatively easily bifurcations, cycles and complex dynamics. Chapter 4 deals with the discretization of continuous-time systems. Maybe, “what is time is a timeless question”, as claimed by the authors in the Introduction. As a matter of fact, the discretization problem is not innocuous. I just mention the 1984 paper by Dana and Malgrange where they find chaotic dynamics in a discrete time version of a growth model which exhibits, in continuous time, a limit cycle. Chapter 5, precisely, will convince the reader to be cautious when she/he wants to discretize continuous-time systems. I am very glad and honored to present this book. Glad because I have learnt many new things by reading it. Honored because Stefano Bosi and Lionel Ragot, who are esteemed academics, asked me to write this preface.\nCuong Le Van\nCNRS Research Director\nParis, July 14th, 2011\n",
+  "wordCount" : "454",
   "inLanguage": "en",
   "image":"https://lionel-ragot.github.io/livre-discrete-time.png","datePublished": "2011-01-01T00:00:00Z",
   "dateModified": "2011-01-01T00:00:00Z",
@@ -233,13 +233,39 @@
 
 
 </div>
-  </header> 
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
 
-  <div class="post-content"><p><strong>Preface</strong></p>
+        <div class="inner"><ul>
+                <li>
+                    <a href="#preface" aria-label="Preface">Preface</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p><span class="lr-badge">📚 Book</span>
+<span class="lr-badge">CLUEB</span></p>
+<div class="lr-book">
+<img src="livre-discrete-time.png" alt="Book cover">
+<div class="lr-book-body">
+<p>📄 <strong>Reference</strong><br>
+Bosi, S. and L. Ragot (2011), <em>Discrete-Time Dynamics: An Introduction</em>, CLUEB, Bologna.</p>
+</div>
+</div>
+<hr>
+<h2 id="preface">Preface<a hidden class="anchor" aria-hidden="true" href="#preface">#</a></h2>
 <p>Most economists seem to agree that economic fluctuations display irregular but recurrent patterns overtime. During the 1960s and 1970s, a predominant approach is to assume that these fluctuations are exogenously generated. More precisely, if the fundamentals of the economy (tastes, technologies, endowments&hellip;) are constant overtime, no persistent fluctuations occur. These movements are essentially due to exogenous shocks. However, many papers, for instance Harrod (1936), Kalecki (1937), Samuelson (1939), Kaldor (1940), Hicks (1950) and Goodwin (1951), present economic models where cycles are endogenously generated through the multiplier-accelerator mechanism. Moreover, even in the absence of shocks, the internal dynamics of an economy may have complex features such as periodic orbits or chaos: see, among others, Benhabib and Day (1981), Day (1983), Dana and Malgrange (1984), Benhabib and Nishimura (1985), Grandmont (1985) and, notably, the introduction to a special issue of the Journal of Economic Theory by Grandmont and Malgrange in 1986. Arguably, this special issue has opened a flourishing line of research on the factors generating complex dynamics in economic systems. It is important for decision makers to know the &ldquo;roots&rdquo; of these complex behaviors arising in different economies. However, it is also necessary to understand some mathematical objects such as bifurcations and cycles&hellip; A huge literature dealing with these topics exists in the libraries of several faculties of economics. But we miss some textbooks that introduce Master and PhD students, and junior researchers into these difficult concepts. In this respect, the book by Stefano Bosi and Lionel Ragot is very welcome. In Chapter 1, the reader will get used to the properties of the matrices and their powers. This first step will introduce her/him to the multidimensional dynamic systems of Chapter 2. The core of the book is Chapter 3. The reader, through simple examples, can understand relatively easily bifurcations, cycles and complex dynamics. Chapter 4 deals with the discretization of continuous-time systems. Maybe, &ldquo;what is time is a timeless question&rdquo;, as claimed by the authors in the Introduction. As a matter of fact, the discretization problem is not innocuous. I just mention the 1984 paper by Dana and Malgrange where they find chaotic dynamics in a discrete time version of a growth model which exhibits, in continuous time, a limit cycle. Chapter 5, precisely, will convince the reader to be cautious when she/he wants to discretize continuous-time systems.
 I am very glad and honored to present this book. Glad because I have learnt many new things by reading it. Honored because Stefano Bosi and Lionel Ragot, who are esteemed academics, asked me to write this preface.</p>
-<p>Cuong Le Van<br />
-CNRS Research Director Paris, July 14th, 2011</p>
+<div class="lr-signature" markdown="1">
+<p><strong>Cuong Le Van</strong><br />
+CNRS Research Director<br />
+Paris, July 14th, 2011</p>
+</div>
 
 
   </div>
