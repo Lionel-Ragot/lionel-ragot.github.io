@@ -190,6 +190,9 @@
                 href="https://lionel-ragot.github.io/fr/tags/dynamic-applied-general-equilibrium-model/"
                 />
   </url><url>
+    <loc>https://lionel-ragot.github.io/11-00-22-en/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/articles/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -202,9 +205,6 @@
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/articles/"
                 />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/11-00-22-en/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/international-migration/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -635,6 +635,19 @@
     <loc>https://lionel-ragot.github.io/11-00-12-en/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lionel-ragot.github.io/en/books/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://lionel-ragot.github.io/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://lionel-ragot.github.io/fr/books/"
+                />
+  </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/d%C3%A9mographie/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -717,19 +730,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/tags/politiques-migratoires/"
-                />
-  </url><url>
-    <loc>https://lionel-ragot.github.io/en/books/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/books/"
                 />
   </url><url>
     <loc>https://lionel-ragot.github.io/en/tags/selective-migration/</loc>
@@ -1084,12 +1084,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/00-00-09-en/</loc>
   </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-12-en/</loc>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-04-en/</loc>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/00-00-05-en/</loc>
-  </url><url>
     <loc>https://lionel-ragot.github.io/en/others/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1101,6 +1095,12 @@
                 hreflang="fr-FR"
                 href="https://lionel-ragot.github.io/fr/others/"
                 />
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-12-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-04-en/</loc>
+  </url><url>
+    <loc>https://lionel-ragot.github.io/00-00-05-en/</loc>
   </url><url>
     <loc>https://lionel-ragot.github.io/00-00-10-en/</loc>
   </url><url>
