@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chômage on Lionel Ragot</title>
-    <link>https://lionel-ragot.eu/fr/tags/ch%C3%B4mage/</link>
+    <link>https://lionel-ragot.github.io/fr/tags/ch%C3%B4mage/</link>
     <description>Recent content in Chômage on Lionel Ragot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.eu/fr/tags/ch%C3%B4mage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lionel-ragot.github.io/fr/tags/ch%C3%B4mage/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
