@@ -190,10 +190,17 @@
   </div>
 </header>
 <div class="post-content"><style>
-/* En-tête de la page Enseignements */
+/* En-tête et dépliants de la page Enseignements */
 .lr-hero { border-left:4px solid #2563eb; border-radius:0.5rem; padding:0.9rem 1.25rem; margin:1.25rem 0; background:#eff6ff; }
 .lr-hero p { margin:0.3rem 0; }
 .lr-badge { display:inline-block; padding:0.25em 0.75em; margin:0.15em 0.3em 0.15em 0; border-radius:1em; font-size:0.9em; background:#eef2f7; color:#334155; }
+details.lr-level { border:1px solid #e2e8f0; border-radius:0.75rem; padding:0.75rem 1.25rem; margin:1rem 0; background:#f8fafc; }
+details.lr-level summary { cursor:pointer; font-size:1.15em; font-weight:600; padding:0.25rem 0; }
+details.lr-level[open] summary { border-bottom:1px solid #e2e8f0; margin-bottom:0.5rem; padding-bottom:0.5rem; }
+.lr-course { border:1px solid #e2e8f0; border-radius:0.5rem; padding:0.6rem 1rem; margin:0.5rem 0; background:#fff; }
+.lr-course a { font-weight:600; }
+.lr-course .level-tag { display:inline-block; padding:0.1em 0.6em; border-radius:0.7em; font-size:0.8em; background:#eef2f7; color:#334155; margin-left:0.4em; font-weight:400; }
+.lr-course p { margin:0.25rem 0 0; }
 </style>
 <div class="lr-hero" markdown="1">
 <p>Bienvenue sur la page de mes enseignements. Vous y trouverez, pour chaque cours, le plan détaillé, les transparents, les documents de travail et les modalités d&rsquo;évaluation.</p>
@@ -201,10 +208,56 @@
 <span class="lr-badge">Master</span>
 <span class="lr-badge">Doctorat</span></p>
 </div>
-<!-- Les pages des cours listées ci-dessous sont générées automatiquement
-     par Hugo à partir des fichiers index.md du dossier content/fr/courses/.
-     Aucune liste manuelle n'est nécessaire ici : chaque nouveau cours
-     créé dans ce dossier apparaîtra automatiquement sur cette page.
+<details class="lr-level" markdown="1">
+<summary>🎓 Licence — 3 cours</summary>
+<div class="lr-course" markdown="1">
+<p><a href="/22-02-01/">Théorie de la croissance</a> <span class="level-tag">L3</span></p>
+<p>Une introduction à l&rsquo;analyse de la dynamique économique de long terme : le modèle de Solow, la règle d&rsquo;or, la décomposition de la croissance.</p>
+</div>
+<div class="lr-course" markdown="1">
+<p><a href="/22-02-02/">Économie de l&rsquo;environnement et du développement durable</a> <span class="level-tag">L3</span></p>
+<p>Ressources naturelles, transition énergétique, instruments de la régulation environnementale et système européen d&rsquo;échange de quotas.</p>
+</div>
+<div class="lr-course" markdown="1">
+<p><a href="/32-09/">Dynamique économique</a> <span class="level-tag">L3</span></p>
+<p>Une introduction à l&rsquo;analyse dynamique en économie, construite sur six modèles canoniques, du multiplicateur keynésien à Cass-Koopmans.</p>
+</div>
+</details>
+<details class="lr-level" markdown="1">
+<summary>🎓 Master — 4 cours</summary>
+<div class="lr-course" markdown="1">
+<p><a href="/enseignements/22-02-03/">Moteurs de la croissance économique</a> <span class="level-tag">M1</span></p>
+<p>Les modèles de croissance optimale et endogène — Ramsey, Lucas (1988), Romer (1990).</p>
+</div>
+<div class="lr-course" markdown="1">
+<p><a href="/enseignements/22-02-04/">Macroéconomie — Mise à niveau</a> <span class="level-tag">M1</span></p>
+<p>Les fondamentaux de la macroéconomie pour les étudiants n&rsquo;ayant pas suivi de cursus d&rsquo;économie.</p>
+</div>
+<div class="lr-course" markdown="1">
+<p><a href="/22-02-05/">Croissance durable et décroissance</a> <span class="level-tag">M2</span></p>
+<p>Croissance durable ou décroissance ? Les conditions théoriques du découplage croissance-environnement.</p>
+</div>
+<div class="lr-course" markdown="1">
+<p><a href="/22-02-06/">Économie des migrations internationales</a> <span class="level-tag">M2</span></p>
+<p>L&rsquo;analyse économique des migrations internationales et leurs effets sur les économies développées.</p>
+</div>
+</details>
+<details class="lr-level" markdown="1">
+<summary>🎓 École doctorale — 1 cours</summary>
+<div class="lr-course" markdown="1">
+<p><a href="/22-02-07/">Macroéconomie approfondie</a> <span class="level-tag">ED</span></p>
+<p>Séminaire doctoral de 12h : croissance de long terme (IA, démographie) et fluctuations (modèles DSGE).</p>
+</div>
+</details>
+<!-- POUR AJOUTER UN NOUVEAU COURS :
+1. Créer son dossier dans content/fr/courses/ avec son index.md ;
+2. Recopier ci-dessous un bloc .lr-course dans le dépliant du niveau concerné :
+
+   [Titre du cours]( {{< relref "courses/xx-xx-xx" >}} ) <span class="level-tag">L3</span>
+
+   Une phrase de présentation du cours.
+
+3. Mettre à jour le nombre de cours dans le <summary> du dépliant.
 -->
 
 
