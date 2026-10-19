@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lionel-ragot.github.io/22-02-01/</loc>
-    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-02/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/32-09/</loc>
-    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/enseignements/22-02-03/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/enseignements/22-02-04/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-05/</loc>
-    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-06/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/22-02-07/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/cass-koopmans/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,19 +10,6 @@
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/dynamique-%C3%A9conomique/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lionel-ragot.github.io/fr/courses/</loc>
-    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://lionel-ragot.github.io/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://lionel-ragot.github.io/fr/courses/"
-                />
   </url><url>
     <loc>https://lionel-ragot.github.io/fr/tags/%C3%A9quation-deuler/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
